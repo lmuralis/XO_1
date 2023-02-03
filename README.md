@@ -1,1 +1,1 @@
-# XO_1
+# This is X_O game
